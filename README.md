@@ -7,4 +7,4 @@ Invoke-KrakenFileDownload -URL 'https://krakenfiles.com/view/a5vabi4qt2/file.htm
 ```
 
 ## Dependencies and requirements
-Functions was tested using PowerShell 7.3 only. It may not work correctly with older versions.
+Function was tested using PowerShell 7.3 only. It may not work correctly with older versions.
